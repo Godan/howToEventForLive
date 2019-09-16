@@ -58,18 +58,3 @@ MacBook Pro (15-inch, 2018)
   メモリ:	16 GB
   OS: MacOS Mojave 10.14.6（18G87）
 ```
-
-## 用語解説
-TODO: あとでABC順で揃える
-
-### PinP ピクチャー・イン・ピクチャー
-
-### System5 システムファイブ
-
-### Amazon  アマゾン
-
-### Blackmagic ブラックマジック
-
-## 画質 ガシツ
-
-

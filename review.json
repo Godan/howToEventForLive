@@ -1,0 +1,31 @@
+{
+  "bookname": "Lets-start-event-delivery",
+  "booktitle": "イベント配信を始めよう!",
+  "aut": ["godan"],
+  "language": "ja",
+  "toc": true,
+  "rights": "(C) 2019　Studio Mocha",
+  "colophon": true,
+  "history": [["2019-09-23 初版"]],
+  "prt": "ねこのしっぽ",
+  "pbl": "Studio Mocha",
+  "edt": "Studio Mocha",
+  "secnolevel": 3,
+  "titlepage": true,
+  "review_version": 3.0,
+  "texstyle": ["reviewmacro"],
+  "texdocumentclass": [
+    "review-jsbook",
+    "media=ebook,paper=b5,serial_pagination=true,hiddenfolio=nikko-pc,openany,fontsize=10pt,baselineskip=15.4pt,line_length=40zw,number_of_lines=35,head_space=30mm,headsep=10mm,headheight=5mm,footskip=10mm"
+  ],
+  "sty_templates": {
+    "url": "https://github.com/TechBooster/ReVIEW-Template/archive/2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa.zip",
+    "dir": "ReVIEW-Template-2cde584d33e8a6f5e6cf647e62fb6b3123ce4dfa/articles/sty/"
+  },
+  "templates": ["images"],
+  "catalog": {
+    "PREDEF": ["preface.re"],
+    "CHAPS": ["./capture/i.md", "./capture/ii.md", "./capture/iii.md", "./capture/iv.md", "./capture/v.md", "./capture/vi.md", "./capture/vii.md", "./capture/viii.md", "./capture/ix.md", "./capture/x.md"],
+    "POSTDEF": ["./capture/i.md", "postscript.re"]
+  }
+}
